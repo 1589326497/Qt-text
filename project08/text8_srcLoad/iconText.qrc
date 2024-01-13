@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/text">
+        <file>imagn/j2.png</file>
+        <file>imagn/j3.png</file>
+    </qresource>
+</RCC>

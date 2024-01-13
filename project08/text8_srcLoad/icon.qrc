@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>imagn/j1.png</file>
+        <file>imagn/j2.png</file>
+        <file>imagn/j3.png</file>
+    </qresource>
+    <qresource prefix="/img">
+        <file>imagn/j2.png</file>
+        <file>imagn/j3.png</file>
+    </qresource>
+</RCC>
